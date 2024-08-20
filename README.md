@@ -1,1 +1,1 @@
-Hi there, the files that are within the repository are just some of the few projects that I've been working on and would like to showcase.
+Welcome to my portfolio. These are just a few of the projects that I have completed and would like to showcase.
